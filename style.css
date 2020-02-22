@@ -1,0 +1,92 @@
+body{
+    font-family: 'Quicksand' ;
+    margin: 0;
+
+}
+h1{
+    font-size: 50px;
+}
+#name-color{
+    color: rgb(33, 33, 141);
+}
+.half-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-section img{
+    width: 100%;
+}
+.top-portion{
+    background-image: url("Images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,rgb(233, 171, 219),rgb(206, 4, 195));
+    padding:10px 20px;
+    border-radius:5px;
+    color: white;
+    font-weight: 700px;
+
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.dream-portion{
+    background-image: url("Images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.work-portion{
+    float: left;
+    padding-right:1%;
+    text-align: center;
+    background-image: url("Images/personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+    
+}
+.work-portion img{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+    padding-top: 2%;
+}
+.clients{
+    text-align: center;
+    font-size: 20px;
+    background-image: url("Images/personal-website/footer-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;}
+#client-comment{
+    color: black;
+    padding-bottom: 5%;
+}
+#designation{
+    font-size:17px ;
+}
+#founder{
+    font-weight: 700;
+}
+.email{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,rgb(233, 171, 219),rgb(206, 4, 195));
+    padding:10px 20px;
+    border-radius:5px;
+    color: white;
+    font-weight: 700px;
+    
+
+}
+.outro{
+    padding-bottom: 7%;
+}
